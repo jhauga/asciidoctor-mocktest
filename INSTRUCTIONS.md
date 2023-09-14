@@ -1,6 +1,6 @@
 # asciidoctor Test - Selective Files Test Result
 
-Ctrl + click [test results](https://jhauga.github.io/htmlpreview.github.com/?https://github.com/jhauga/asciidoctor-mocktest/blob/main/index.html).
+Ctrl + click [test results](https://jhauga.github.io/htmlpreview.github.com/?https://github.com/CHANGE_USER/CHANGE_REPO/blob/main/index.html).
 
 The files used for the test were either selected becuase they had elements the pull request addresses, or selected at random.
 Expand below to show test files:
